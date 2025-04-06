@@ -29,7 +29,7 @@
 ### - flask run --port {port number}
 ## Invoke celery worker by executing 
 ### -  celery -A celery_ worker --pool=solo -l info
-## invoke 
+## invoke celery beat
 ### - celery -A celery_ beat --loglevel=info
 
 ## Now project is runnig 
