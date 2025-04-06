@@ -1,0 +1,13 @@
+# .dockerignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.db
+celerybeat-schedule.*
+
+
+# - Make sure `celery_` in `celery -A celery_` is the right file/module name
+# - Ensure `app` is the Flask app instance name in `app.py`
+# - You can add database service (PostgreSQL/MySQL) if needed
