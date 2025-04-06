@@ -9,10 +9,10 @@
 ### extensions.py contain  Flask instance , database instance and redis instance.
 
 
-###  RUN PROJECT ON DOCKER :-
+#  RUN PROJECT ON DOCKER :-
 ## 1. PULL THE REPO
 ## 2. RUN  docker-compose up --build
-###NOW YOU ARE LIVE GOTO POSTMAN AND HIT THE API FROM API REFERANCE SECTION BELOW
+## NOW YOU ARE LIVE GOTO POSTMAN AND HIT THE API FROM API REFERANCE SECTION BELOW
 
 
 
